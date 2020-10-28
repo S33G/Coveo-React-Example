@@ -1,0 +1,11 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.CoveoResultLink {
+    border: 2px red solid;
+}
+
+.CoveoSearchbox {
+    border: 2px red solid;
+}
